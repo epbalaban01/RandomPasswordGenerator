@@ -38,7 +38,7 @@ Bu uygulama sayesinde:
 
 ## 📁Kurulum 
 1. Bu repoyu indir veya klonla:
-git clone https://github.com/epbalaban01/RandomPasswordGenerator.git
+ `git clone https://github.com/epbalaban01/RandomPasswordGenerator.git `
 2. Visual Studio ile aç
 3. Uygulamayı derle ve çalıştır
 
