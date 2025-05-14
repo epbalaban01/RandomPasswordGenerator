@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/epbalaban01/RandomPasswordGenerator/image?name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
-## Proje Açıklaması
+## 📌Proje Açıklaması
 Windows Forms uygulaması kullanarak geliştirdiğim bu basit ama işlevsel program, güçlü rastgele şifreler üretmenizi sağlar. C# programlama diliyle Visual Studio 2022 ortamında yazılmıştır.
 Bu uygulama sayesinde:
 - Farklı uzunluk ve karakter seçenekleriyle şifre oluşturabilirsiniz.
@@ -19,7 +19,7 @@ Bu uygulama sayesinde:
 - [x] Şifreyi txt dosyasına kaydetme
 - [x] Hakkında bölümü ve lisans görüntüleme
 
-##🚀 Planlanan Geliştirmeler
+## 🚀Planlanan Geliştirmeler
 - [ ] Çoklu dil desteği (İngilizce, Türkçe vb.)
 - [ ] Gelişmiş tema seçenekleri
 - [ ] Şifre geçmişi görüntüleme
@@ -30,7 +30,7 @@ Bu uygulama sayesinde:
 Buraya programın ekran görüntülerini ekleyebilirsin. Örn:
 ![Şifre Üretici](screenshots/screenshot1.png)
 
-## 📁 Kurulum 
+## 📁Kurulum 
 1. Bu repoyu indir veya klonla:
 git clone https://github.com/kullaniciadi/projeadi.git
 2. Visual Studio ile aç
