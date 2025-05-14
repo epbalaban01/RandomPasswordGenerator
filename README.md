@@ -18,17 +18,23 @@ Bu uygulama sayesinde:
 - [x] Şifreyi panoya kopyalama
 - [x] Şifreyi txt dosyasına kaydetme
 - [x] Hakkında bölümü ve lisans görüntüleme
+- [x] Şifre geçmişi görüntüleme
 
 ## 🚀Planlanan Geliştirmeler
 - [ ] Çoklu dil desteği (İngilizce, Türkçe vb.)
 - [ ] Gelişmiş tema seçenekleri
-- [ ] Şifre geçmişi görüntüleme
 - [ ] Kullanıcı ayarlarını kaydetme
 - [ ] Modern ikon ve görsel iyileştirmeler
 
-<h2>📸 Ekran Görüntüleri</h2>
-Buraya programın ekran görüntülerini ekleyebilirsin. Örn:
-![Şifre Üretici](screenshots/screenshot1.png)
+## 📸Ekran Görüntüleri
+
+![Şifre Üretici](https://github.com/user-attachments/assets/302b730b-eb3c-4890-99cb-930bbc7b94e8)
+![Şifre Kopyalama](https://github.com/user-attachments/assets/74cfedd8-2970-47ef-8cdf-6fbdc148a7d6)
+![Dışa Aktarma](https://github.com/user-attachments/assets/b430fcf4-f4ca-4874-847b-eb68da5676b9)
+![Not Defteri](https://github.com/user-attachments/assets/8bdc1fe0-70ab-4506-b0ae-b2b90148a6ac)
+![Beyaz Tema](https://github.com/user-attachments/assets/0666d086-7108-474d-a520-3d7e369a120a)
+![Ayarlar](https://github.com/user-attachments/assets/14f25557-6fd0-463d-9b21-4eebdb234034)
+
 
 ## 📁Kurulum 
 1. Bu repoyu indir veya klonla:
