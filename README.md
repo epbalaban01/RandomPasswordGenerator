@@ -44,4 +44,4 @@ Bu uygulama sayesinde:
 
 ## 📝 Lisans
 
-> Bu proje açık kaynaklıdır. Lisans detayları için License.html dosyasına bakabilirsiniz.
+> Bu proje açık kaynaklıdır. Lisans detayları için `License.html` dosyasına bakabilirsiniz.
